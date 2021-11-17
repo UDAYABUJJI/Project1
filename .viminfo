@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1637163812,,"wq"
+=======
+|2,0,1637164061,,"wq"
+>>>>>>> feature2
 
 # Search String History (newest to oldest):
 
@@ -25,6 +29,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  6  19  ~/devops1/file1
 |4,48,6,19,1637163812,"~/devops1/file1"
 
@@ -36,6 +41,256 @@
 
 # History of marks within files (newest to oldest):
 
+=======
+'0  2  12  ~/devops1/test2
+|4,48,2,12,1637164061,"~/devops1/test2"
+'1  1  0  ~/devops1/file3
+|4,49,1,0,1637164026,"~/devops1/file3"
+'2  2  10  ~/devops1/test2
+|4,50,2,10,1637163299,"~/devops1/test2"
+'3  3  0  ~/devops1/.gitignore
+|4,51,3,0,1637163184,"~/devops1/.gitignore"
+'4  5  3  ~/devops1/test1
+|4,52,5,3,1637162964,"~/devops1/test1"
+'5  1  1  ~/devops1/file1
+|4,53,1,1,1637160318,"~/devops1/file1"
+'6  1  0  ~/test1
+|4,54,1,0,1637160047,"~/test1"
+'7  6  0  ~/file2
+|4,55,6,0,1637160027,"~/file2"
+'8  6  0  ~/file1
+|4,56,6,0,1637159940,"~/file1"
+
+# Jumplist (newest first):
+-'  2  12  ~/devops1/test2
+|4,39,2,12,1637164061,"~/devops1/test2"
+-'  1  0  ~/devops1/file3
+|4,39,1,0,1637164026,"~/devops1/file3"
+-'  1  0  ~/devops1/file3
+|4,39,1,0,1637164026,"~/devops1/file3"
+-'  2  10  ~/devops1/test2
+|4,39,2,10,1637163299,"~/devops1/test2"
+-'  2  10  ~/devops1/test2
+|4,39,2,10,1637163299,"~/devops1/test2"
+-'  1  0  ~/devops1/test2
+|4,39,1,0,1637163286,"~/devops1/test2"
+-'  1  0  ~/devops1/test2
+|4,39,1,0,1637163286,"~/devops1/test2"
+-'  1  0  ~/devops1/test2
+|4,39,1,0,1637163286,"~/devops1/test2"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  3  0  ~/devops1/.gitignore
+|4,39,3,0,1637163184,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  1  0  ~/devops1/.gitignore
+|4,39,1,0,1637163170,"~/devops1/.gitignore"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  5  3  ~/devops1/test1
+|4,39,5,3,1637162964,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  0  ~/devops1/test1
+|4,39,1,0,1637162943,"~/devops1/test1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  1  ~/devops1/file1
+|4,39,1,1,1637160318,"~/devops1/file1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1637160047,"~/test1"
+
+# History of marks within files (newest to oldest):
+
+> ~/devops1/test2
+	*	1637164059	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/devops1/file3
+	*	1637164024	0
+	"	1	0
+
+> ~/devops1/.gitignore
+	*	1637163181	0
+	"	3	0
+	^	3	0
+	.	2	5
+	+	2	5
+
+> ~/devops1/test1
+	*	1637162962	0
+	"	5	3
+	^	5	4
+	.	5	3
+	+	5	3
+
+>>>>>>> feature2
 > ~/devops1/file1
 	*	1637163810	0
 	"	6	19
